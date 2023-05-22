@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T12:24:25.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XiQSlHmc670AE59gQfjM" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T07:36:11.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UAnRHhbLffy6yC8wKuhU" version="21.3.2" type="github">
   <diagram name="Page-1" id="UIig_mv7PyVYJ3acsKxV">
-    <mxGraphModel dx="3387" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3240" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sLh30dL8LcQx2BWHPoGk-1" value="A quel besoin client mon idée répond-elle ?&lt;br&gt;&lt;br&gt;-&amp;nbsp;Recevoir mon colis chez moi &lt;br&gt;- ne pas gaspiller de l&#39;eau potable et payer l&#39;eau moins cher&lt;br&gt;- réduire l&#39;emprunte CO2 des citoyens&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="100" width="100" height="40" as="geometry" />
+        <mxCell id="sLh30dL8LcQx2BWHPoGk-1" value="A quel besoin client mon idée répond-elle ?&lt;br&gt;&lt;br&gt;-&amp;nbsp;Recevoir mon colis chez moi de manière économique et écologique&lt;br&gt;- ne pas gaspiller de l&#39;eau potable&lt;br&gt;- réduire l&#39;emprunte CO2 des citoyens&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-475" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sLh30dL8LcQx2BWHPoGk-2" value="&lt;div&gt;En quoi&lt;/div&gt;&lt;div&gt;mon idée sert-elle la stratégie du groupe ?&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&quot; L&#39;ACTIVITE HUMAINE INVERSERA LE COURS&amp;nbsp;&lt;br&gt;DU RECHAUFFEMENT CLIMATIQUE &quot;&lt;/blockquote&gt;&lt;blockquote&gt;En participant au développement d&#39;un réseau d&#39;eau non potable,&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Michelin œuvre pour des économies d&#39;eau potable&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Si nous utilisons les réseaux urbains déjà existant,&lt;br&gt;nous réaliseront des économies sur les transports&lt;/span&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="300" y="100" width="100" height="40" as="geometry" />
+        <mxCell id="sLh30dL8LcQx2BWHPoGk-2" value="&lt;div&gt;En quoi&lt;/div&gt;&lt;div&gt;mon idée sert-elle la stratégie du groupe ?&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;&quot; L&#39;ACTIVITE HUMAINE INVERSERA LE COURS&amp;nbsp;&lt;br&gt;DU RECHAUFFEMENT CLIMATIQUE &quot;&lt;/blockquote&gt;&lt;blockquote&gt;- Soit, en participant au développement d&#39;un réseau d&#39;eau non potable,&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Michelin œuvre pour des économies d&#39;eau potable&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Soit, en utilisant les réseaux urbains déjà existant,&lt;br&gt;nous réaliseront des économies sur les transports&lt;/span&gt;&lt;/blockquote&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sLh30dL8LcQx2BWHPoGk-3" value="Quelle est la légitimité du groupe dans ce domaine ?&lt;br&gt;&lt;br&gt;On est à l&#39;échelle de la France, Michelin à l&#39;envergure et le réseau pour agir&lt;br&gt;Michelin c&#39;est un fabriquant d&#39;enveloppe !" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="700" width="100" height="40" as="geometry" />
+        <mxCell id="sLh30dL8LcQx2BWHPoGk-3" value="Quelle est la légitimité du groupe dans ce domaine ?&lt;br&gt;&lt;br&gt;1 : Michelin c&#39;est un fabriquant d&#39;enveloppe !&lt;br&gt;2 : On est à l&#39;échelle de la France, Michelin à l&#39;envergure et le réseau pour agir&lt;br&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="810" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sLh30dL8LcQx2BWHPoGk-4" value="En quoi votre idée peut améliorer Planet et/ou people ?&lt;br&gt;&lt;br&gt;La sécheresse ça vous parle ?" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="300" y="700" width="100" height="40" as="geometry" />
+        <mxCell id="sLh30dL8LcQx2BWHPoGk-4" value="En quoi votre idée peut améliorer Planet et/ou people ?&lt;br&gt;&lt;br&gt;- Lutter contre les sécheresse historique&lt;br&gt;- Réduire le nombre de véhicule de livraison en ville" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="400" y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wn7HWpwtSSbE6yunckwJ-1" value="&lt;font style=&quot;font-size: 96px;&quot;&gt;Ec������n������me&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="430" width="560" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
